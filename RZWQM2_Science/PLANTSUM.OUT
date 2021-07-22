@@ -1,0 +1,14 @@
+$(2004)PLANT SUMMARY
+  
+*PLANTSUM
+
+@  RUN EXCODE      TN RN TNAME.................... REP  RUNI S O C    CR  YEAR  PDAY  ADAY  MDAY HYEAR  HDAY SDWAP  CWAM  GWAM  HWAH  BWAH  GWGM  H#AM  H#UM SDNAP  CNAM  GNAM  RNAM  TNAM  NUAM  GN%M  VN%M
+     2 EXPDSSATWH   1  2 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2010   298   -99   999  2011   109    16   168     0     0   168     0     0     0   0.3     7     0     0     7     7  0.00  4.16
+     4 EXPDSSATWH   1  4 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2011   291   -99   999  2012   101    26   501     0     0   501     0     0     0   0.5    18     0     1    19    20  0.00  3.59
+     6 EXPDSSATWH   1  6 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2012   296   -99   999  2013   122    26   355     0     0   355     0     0     0   0.5    14     0     1    15    15  0.00  3.94
+     8 EXPDSSATWH   1  8 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2013   297   -99   999  2014   109    26   206     0     0   206     0     0     0   0.5     9     0     1     9     9  0.00  4.16
+    10 EXPDSSATWH   1 10 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2014   303   -99   999  2015   107    26   596     0     0   596     0     0     0   0.5    19     0     2    20    21  0.00  3.18
+    12 EXPDSSATWH   1 12 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2015   307   -99   999  2016   120    26  1284     0     0  1284     0     0     0   0.5    23     0     3    26    28  0.00  1.75
+    14 EXPDSSATWH   1 14 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2016   305   -99   999  2017   112    26   830     0     0   830     0     0     0   0.5    18     0     2    20    22  0.00  2.12
+    16 EXPDSSATWH   1 16 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2017   307   -99   999  2018   111    26     0     0     0     0     0     0     0   0.5     0     0     0     0     0  0.00  0.00
+    18 EXPDSSATWH   1 18 C:\SCENARIOS 02042021\FUL   1     1 0 0 1    WH  2018   306   -99   999  2018   365    26     3     0     0     3     0     0     0   0.5     0     0     0     0     0  0.00  5.92

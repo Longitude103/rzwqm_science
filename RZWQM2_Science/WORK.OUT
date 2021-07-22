@@ -1,0 +1,108 @@
+  
+ RUN OVERVIEW
+  MODEL   RZWQM2_S
+  MODULE  CSCER040
+  VERSION     4.03
+  CROP COMPONENT             1
+  GENOTYPE FILES CODE   CER040
+  PLANTING DATE TARGET 2018306
+  
+ DERIVED DATA
+   Seedrs,Seedn:   20.8    0.5 kg/ha
+  
+  
+ HARVEST REACHED      2018365
+  
+ CROP COMPONENT:  1
+  DEAD MATERIAL LEFT ON SURFACE      0.3
+  DEAD MATERIAL LEFT IN SOIL         0.4
+  ROOT WEIGHT AT HARVEST             1.2
+  
+ ROOTS BY LAYER FOR EXPDSSATWH  1
+  LAYER  RTWT   RLV
+     1    0.7  0.02
+     2    0.5  0.01
+     3    0.0  0.00
+     4    0.0  0.00
+     5    0.0  0.00
+     6    0.0  0.00
+     7    0.0  0.00
+     8    0.0  0.00
+  
+ N BALANCE FOR EXPDSSATWH  1
+   N UPTAKE + SEED         0.4934
+   TOTAL N SENESCED        0.0220  0.0167  0.0053
+   N IN DEAD MATTER        0.0000
+   TOTAL N IN PLANT        0.4714
+   BALANCE (A-(B+C+D))    -0.0000
+  
+ CH2O BALANCE FOR EXPDSSATWH  1
+   SEED + CH2O FIXED A         26.8196
+   CH2O RESPIRED B              0.0849
+   CH2O SENESCED C  Tops,rt     0.6963     0.3396     0.3567
+   CH2O IN LIVE+DEAD D         26.0385
+   CH2O IN DEAD MATTER          0.0000
+   CH2O IN LIVE PLANT          26.0385
+   POST MATURITY RESERVES E     0.0000
+   BALANCE (A-(B+C+D+E))       -0.0000
+  
+ STAGE CONDITIONS FOR EXPDSSATWH  1
+  Temperature mean,germ+emergence       -0.0
+  Temperature mean,first 20 days         0.3
+  Temperature mean,20d around anthesis -99.0
+  Solar radn. mean,20d around anthesis -99.0
+  Temperature mean,grain filling       -99.0
+  Temperature mean,grain maturing      -99.0
+  
+ STAGE DATES FOR EXPDSSATWH  1
+  STAGE   DATE  STAGE NAME
+      1 9999999 Term Spklt
+      2 9999999 End Veg   
+      3 9999999 End Ear Gr
+      4 9999999 Beg Gr Fil
+      5 9999999 End Gr Fil
+      6 2018365 Harvest   
+      7 2018306 Sowing    
+      8 2018308 Germinate 
+      9 2018325 Emergence 
+     10     -99 Failure   
+     11 2018365 End crop  
+  
+ LEAF NUMBER AND SIZES FOR EXPDSSATWH  1
+   LEAF NUMBER  0.9
+   LEAF AREAP AREA1 AREAT AREAS TNUML  WFLF  NFLF  AFLF
+      1   5.0   0.5   0.5   0.1   1.0   0.0   0.0   0.4
+  
+ STRESS FACTOR AVERAGES FOR EXPDSSATWH  1
+  PHASE  H2O(PS)   H2O(GR)   N(PS)     N(GR)  PHASE END
+     1    0.00      0.00      0.01      0.01  Term Spklt
+     2    0.00      0.00      0.00      0.00  End Veg   
+     3    0.00      0.00      0.00      0.00  End Ear Gr
+     4    0.00      0.00      0.00      0.00  Beg Gr Fil
+     5    0.00      0.00      0.00      0.00  End Gr Fil
+  NB 0.0 = minimum ; 1.0 = maximum stress.
+  
+  RESERVES STATUS FOR EXPDSSATWH  1
+  Kg/ha at anthesis    0.0
+  Kg/ha at maturity    0.4
+  % at maturity       13.5
+  
+  Reserves coeff      0.30
+  Stem gr end stage   4.45
+  Anthesis stage      4.25
+  
+  Grain weight coeff  30.0
+  Minimum grain N %    0.0
+  Standard grain N %   2.0
+  
+ HARVEST DAY OUTPUTS
+  
+ Harvest percentage (Technology coeff)   0.0000000E+00
+ Writing PLANT SUMMARY
+ A-file not found!
+ Writing EVALUATION
+ Writing OVERVIEW
+  
+ END OF HARVEST DAY OUTPUTS
+ WILL BEGIN NEW CYCLE (IF CALLED FOR)
+  

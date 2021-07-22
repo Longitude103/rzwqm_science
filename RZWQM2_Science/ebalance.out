@@ -1,0 +1,11 @@
+*RZWQM2 OUTPUTS Version 4.2 Intel Fortran (2.22.2021)               Feb 23, 2021; 12:00:28
+
+
+
+                                  SUMMARY OF ENERGY TRANSFER AT THE SURFACE
+
+
+                      LONG WAVE RADIATION                SHORT WAVE RADIATION         TOTAL RAD         SENSIBLE HEAT FLUX                     LATENT HEAT FLUX          SOIL HEAT FLUX  ENERGY BALANCE
+               ---------------------------------  ----------------------------------  ---------  ----------------------------------  ----------------------------------  --------------  --------------
+ DAY HR  YR    CANOPY     SNOW   RESIDUE   SOIL   CANOPY    SNOW    RESIDUE    SOIL              SOIL    RESIDUE   CANOPY   TOTAL    SOIL    RESIDUE   CANOPY   TOTAL        TOTAL          CLOSURE
+                 W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2     W/M2         W/M2            W/M2

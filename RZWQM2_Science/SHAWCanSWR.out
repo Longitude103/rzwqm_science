@@ -1,0 +1,7 @@
+*RZWQM2 OUTPUTS Version 4.2 Intel Fortran (2.22.2021)               Feb 23, 2021; 12:00:28
+
+
+Units: Wind in m/s, Temperature in oC, Air Mositure in kg/m3, and Radiation in w/m2 (negative means leaving the canopy)
+                          Canopy Layers are defined per 0.5 LAI
+====================================================================================================================================================================================
+  DY HR  YR             1              2              3              4              5              6              7              8              9             10             11

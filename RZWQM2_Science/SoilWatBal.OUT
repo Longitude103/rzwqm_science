@@ -1,0 +1,129 @@
+*WATER BALANCE OUTPUT FILE
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:27:48
+
+*RUN   1        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
+
+     WATER BALANCE PARAMETERS
+     ========================                  --mm--
+
+     Soil H2O (start) on Year/day 2010/111     434.27
+     Soil H2O (final) on Year/day 2010/253     433.73
+     Effective Irrigation                      142.00
+     Precipitation                             488.95
+     Drainage                                   90.59
+     Runoff                                     26.09
+     Soil Evaporation                          101.07
+     Transpiration                             413.73
+     Potential ET                              650.90
+
+     Final Balance                             0.0000
+
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:30:36
+
+*RUN   2        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
+
+     WATER BALANCE PARAMETERS
+     ========================                  --mm--
+
+     Soil H2O (start) on Year/day 2011/123     513.42
+     Soil H2O (final) on Year/day 2011/258     445.14
+     Effective Irrigation                      134.60
+     Precipitation                             362.71
+     Drainage                                   53.59
+     Runoff                                      0.36
+     Soil Evaporation                           94.34
+     Transpiration                             417.30
+     Potential ET                              709.70
+
+     Final Balance                             0.0001
+
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:32:38
+
+*RUN   3        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
+
+     WATER BALANCE PARAMETERS
+     ========================                  --mm--
+
+     Soil H2O (start) on Year/day 2012/115     501.27
+     Soil H2O (final) on Year/day 2012/245     419.95
+     Effective Irrigation                      195.40
+     Precipitation                             287.27
+     Drainage                                   26.62
+     Runoff                                      3.70
+     Soil Evaporation                           73.68
+     Transpiration                             459.99
+     Potential ET                              802.59
+
+     Final Balance                             0.0000
+
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:35:06
+
+*RUN   4        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
+
+     WATER BALANCE PARAMETERS
+     ========================                  --mm--
+
+     Soil H2O (start) on Year/day 2013/136     482.24
+     Soil H2O (final) on Year/day 2013/269     366.23
+     Effective Irrigation                      101.40
+     Precipitation                             359.16
+     Drainage                                   68.11
+     Runoff                                     45.49
+     Soil Evaporation                           62.65
+     Transpiration                             400.32
+     Potential ET                              711.22
+
+     Final Balance                            -0.0000
+
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:37:48
+
+*RUN   5        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
+
+     WATER BALANCE PARAMETERS
+     ========================                  --mm--
+
+     Soil H2O (start) on Year/day 2014/122     476.24
+     Soil H2O (final) on Year/day 2014/270     505.20
+     Effective Irrigation                      101.40
+     Precipitation                             494.28
+     Drainage                                   34.53
+     Runoff                                     14.36
+     Soil Evaporation                          103.07
+     Transpiration                             417.70
+     Potential ET                              791.75
+
+     Final Balance                            -2.9266
+
+
+*DSSAT Cropping System Model Ver. 4.0.2.000               Feb 23, 2021; 08:40:03
+
+*RUN   6        :C:\SCENARIOS 02042021\FULLX200A\                                                
+ MODEL          : MZCER040 - Maize           
+ EXPERIMENT     : EXPDSSAT MZ    RZWQM2-NOT SPECIFIED                           
+ TREATMENT  4   :C:\SCENARIOS 02042021\FULLX200A\                                                
+
